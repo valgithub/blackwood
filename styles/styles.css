@@ -1,0 +1,62 @@
+#blackwood {background-color: grey; text-align: center;
+	 color:black; font-weight:bold; font-size:1.5em; 
+	 white-space: pre-wrap;
+	 text-shadow: 10px 2px 2px white;
+	border: 10px ridge;
+	width: 97%; height:30px;
+	position: fixed; top: 0px; left: 5px;right: 0px; 
+	padding-left:2px; margin-left:2px;
+	z-index: 10;
+}
+
+
+#pereyro{background-color: grey; text-align: center;
+	 color:black; font-weight:bold; font-size:1em; 
+	 text-shadow: 10px -2px 2px white;
+	border: 5px outset;
+	width: 98%; height:20px;
+	position: fixed; bottom: 0px; left: 3px; right: 0px; 
+	padding-left:2px; margin-left:2px;
+	z-index: 10;
+}
+
+#container {
+	
+	width: 1235px; height:1500px;
+	  border: 5px dotted;
+	position: static;
+	padding-left: 0px; margin-left: 0px; 
+	font-weight:bold;
+	  color: black;
+	  font-size: 1.2em;
+	  z-index: 0;
+}
+
+#box{
+	width:250px;height:400px;
+	text-align: center;
+	position: absolute;  
+	border:6px double;
+	z-index: 1;
+	font-size: 0.75em;
+	text-transform: uppercase;
+	letter-spacing: 8px;
+
+}
+
+#tovar{
+	width:250px;height:360px;
+}
+
+.close {
+	background: grey;
+	font-size: 15px;
+}
+
+.tray {
+	background: grey;
+	font-size: 10px;
+}
+
+
+
